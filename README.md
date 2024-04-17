@@ -1,11 +1,12 @@
 # Socket Chat App
 
-Chat App with Socket.io and React
+Real time Chat App with Socket.io and React
 
 ## Stack
 
-* Express
-* CORS
-* Socket.io
-* React
-* Socket.io-client
+- `express.js`
+-  `react`
+-  `CORS` 
+- `socket.io`
+- `socket.io-client`
+

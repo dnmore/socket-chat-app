@@ -19,7 +19,7 @@ A real-time chat application built using Socket.io and React.
 Clone the repository and install the dependencies:
 
 ```
-$ git clone <repository-url>](https://github.com/dnmore/socket-chat-app.git)
+$ git clone https://github.com/dnmore/socket-chat-app.git
 $ npm install
 
 ```
